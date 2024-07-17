@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Artavia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **PHP, node.js, ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [steveartavia.netlify.app](steveartavia.netlify.app)
 
