@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steve Artavia</h1>
-<h3 align="center">A passionate web developer from Costa Rica</h3><br><br>
+<h3 align="center">I am a Back-End student and Web Developer</h3><br><br>
 
-- 👨‍💻 All of my projects are available at [steveartavia.netlify.app](steveartavia.netlify.app)
+<p>I'm currently learning backend with Java, I have experience with HTML, CSS, frameworks like bootstrap for responsive layouts, Javascript, Databases with MySQL, PHP, and website management using WordPress</p>
+
+- 👨‍💻 Take a look at my portfolio at [steveartavia.netlify.app](steveartavia.netlify.app)
 
 - 📫 How to reach me **stvartavia@gmail.com**
-
-- 📄 Know about my experiences [steveartavia.netlify.app](steveartavia.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
