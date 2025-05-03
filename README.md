@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Artavia</h1>
 <h3 align="center">I am a Back-End student and Web Developer</h3><br><br>
 
-<p>I'm currently learning backend with Java, I have experience with HTML, CSS, frameworks like bootstrap for responsive layouts, Javascript, Databases with MySQL, PHP, and website management using WordPress</p>
+<p>I have experience building websites using HTML, CSS, Bootstrap and JavaScript. My interest in expanding my skillset has led me to study backend development with Java. I am looking for opportunities where I can continue learning, contribute and grow professionally.</p>
 
 - 👨‍💻 Take a look at my portfolio at [steveartavia.netlify.app](steveartavia.netlify.app)
 
